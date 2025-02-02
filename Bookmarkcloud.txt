@@ -1,3 +1,5 @@
 https://workshops.aws/
 https://catalog.workshops.aws/aws-mainframe-modernization-application-testing/en-US
 https://github.com/orgs/copilot-workshops/repositories
+
+https://copilot-workshops.com/
